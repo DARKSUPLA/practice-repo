@@ -1,27 +1,29 @@
-## First Name Last Name
+## Lucas Batista
 
-### Term Year 
+### 2024
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Discrete Math
 
-- Course 2
+- Physics 1
 
-- Course 3
+- Physics 1 Lab
 
-- Course 4
+- Foundations of Data Analytics
+
+- Object Oriented Programming
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- My religious beliefs
 
-- Thing 2
+- Data Science
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Mathematics
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/09/01
